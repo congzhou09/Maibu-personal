@@ -1,0 +1,181 @@
+{
+  "uuid": "471f32170a18a3695c795a365458b3cd",
+  "name": "all_the_way_north",
+  "icon": "",
+  "version": "1.0.0",
+  "watchface": "true",
+  "resources": [
+  {
+    "type": "bmp",
+    "name": "RES_BITMAP_WATCHFACE_ANI_1",
+    "file": "1.bmp"
+  },
+  {
+  	"type": "bmp",
+  	"name": "RES_BITMAP_WATCHFACE_ANI_2",
+  	"file": "2.bmp"
+  },
+  {
+  	"type": "bmp",
+  	"name": "RES_BITMAP_WATCHFACE_ANI_3",
+  	"file": "3.bmp"
+  },
+  {
+  	"type": "bmp",
+  	"name": "RES_BITMAP_WATCHFACE_ANI_4",
+  	"file": "4.bmp"
+  },
+  {
+  	"type": "bmp",
+  	"name": "RES_BITMAP_WATCHFACE_ANI_5",
+  	"file": "5.bmp"
+  },
+  {
+    "type": "bmp",
+    "name": "RES_BITMAP_WATCHFACE_ANI_6",
+    "file": "6.bmp"
+  },
+  {
+    "type": "bmp",
+    "name": "RES_BITMAP_WATCHFACE_NUMBER_MID_0",
+    "file": "mid_0.bmp"
+  },
+  {
+    "type": "bmp",
+    "name": "RES_BITMAP_WATCHFACE_NUMBER_MID_1",
+    "file": "mid_1.bmp"
+  },        
+  {
+    "type": "bmp",
+    "name": "RES_BITMAP_WATCHFACE_NUMBER_MID_2",
+    "file": "mid_2.bmp"
+  },
+  {
+    "type": "bmp",
+    "name": "RES_BITMAP_WATCHFACE_NUMBER_MID_3",
+    "file": "mid_3.bmp"
+  },
+  {
+    "type": "bmp",
+    "name": "RES_BITMAP_WATCHFACE_NUMBER_MID_4",
+    "file": "mid_4.bmp"
+  },        
+  {
+    "type": "bmp",
+    "name": "RES_BITMAP_WATCHFACE_NUMBER_MID_5",
+    "file": "mid_5.bmp"
+  },        
+  {
+    "type": "bmp",
+    "name": "RES_BITMAP_WATCHFACE_NUMBER_MID_6",
+    "file": "mid_6.bmp"
+  },        
+  {
+    "type": "bmp",
+    "name": "RES_BITMAP_WATCHFACE_NUMBER_MID_7",
+    "file": "mid_7.bmp"
+  },        
+  {
+    "type": "bmp",
+    "name": "RES_BITMAP_WATCHFACE_NUMBER_MID_8",
+    "file": "mid_8.bmp"
+  },        
+  {
+    "type": "bmp",
+    "name": "RES_BITMAP_WATCHFACE_NUMBER_MID_9",
+    "file": "mid_9.bmp"
+  },
+  {
+    "type": "bmp",
+    "name": "RES_BITMAP_WATCHFACE_NUMBER_LIT_0",
+    "file": "lit_0.bmp"
+  },      
+  {
+    "type": "bmp",
+    "name": "RES_BITMAP_WATCHFACE_NUMBER_LIT_1",
+    "file": "lit_1.bmp"
+  },      
+  {
+    "type": "bmp",
+    "name": "RES_BITMAP_WATCHFACE_NUMBER_LIT_2",
+    "file": "lit_2.bmp"
+  },  
+      
+  {
+    "type": "bmp",
+    "name": "RES_BITMAP_WATCHFACE_NUMBER_LIT_3",
+    "file": "lit_3.bmp"
+  },      
+  {
+    "type": "bmp",
+    "name": "RES_BITMAP_WATCHFACE_NUMBER_LIT_4",
+    "file": "lit_4.bmp"
+  },      
+  {
+    "type": "bmp",
+    "name": "RES_BITMAP_WATCHFACE_NUMBER_LIT_5",
+    "file": "lit_5.bmp"
+  },      
+  {
+    "type": "bmp",
+    "name": "RES_BITMAP_WATCHFACE_NUMBER_LIT_6",
+    "file": "lit_6.bmp"
+  },      
+  {
+    "type": "bmp",
+    "name": "RES_BITMAP_WATCHFACE_NUMBER_LIT_7",
+    "file": "lit_7.bmp"
+  },      
+  {
+    "type": "bmp",
+    "name": "RES_BITMAP_WATCHFACE_NUMBER_LIT_8",
+    "file": "lit_8.bmp"
+  },      
+  {
+    "type": "bmp",
+    "name": "RES_BITMAP_WATCHFACE_NUMBER_LIT_9",
+    "file": "lit_9.bmp"
+  },  
+  {
+    "type": "bmp",
+    "name": "RES_BITMAP_WATCHFACE_WEEK_MON",
+    "file": "MON.bmp"
+  },
+  {
+    "type": "bmp",
+    "name": "RES_BITMAP_WATCHFACE_WEEK_TUE",
+    "file": "TUE.bmp"
+  },
+  {
+    "type": "bmp",
+    "name": "RES_BITMAP_WATCHFACE_WEEK_WED",
+    "file": "WED.bmp"
+  },
+  {
+    "type": "bmp",
+    "name": "RES_BITMAP_WATCHFACE_WEEK_THU",
+    "file": "THU.bmp"
+  },
+  {
+    "type": "bmp",
+    "name": "RES_BITMAP_WATCHFACE_WEEK_FRI",
+    "file": "FRI.bmp"
+  },
+  {
+    "type": "bmp",
+    "name": "RES_BITMAP_WATCHFACE_WEEK_SAT",
+    "file": "SAT.bmp"
+  },  
+  {
+    "type": "bmp",
+    "name": "RES_BITMAP_WATCHFACE_WEEK_SUN",
+    "file": "SUN.bmp"
+  },    
+      
+  {
+  	"type": "bmp",
+  	"name": "RES_BITMAP_WATCHFACE_METER",
+  	"file": "meter.bmp"
+  }
+ ]
+}
